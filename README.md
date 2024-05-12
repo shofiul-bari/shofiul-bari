@@ -12,9 +12,9 @@ Skills: HTML / CSS
 
 </div>
 
-- 🔭 I’m currently working on [Hablu Programmer](https://www.hablu-programmer.com/)
 
-- 🌱 I’m currently learning Golang, Java, C++
+
+- 🌱 I’m currently learning HTML,CSS,JS,
 
 - 👨‍💻 All of my projects are available at [https://github.com/harun181](https://github.com/harun181)
 
