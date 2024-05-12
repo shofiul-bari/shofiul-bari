@@ -16,7 +16,7 @@ Skills: HTML / CSS
 
 - 🌱 I’m currently learning HTML,CSS,JS,
 
-- 👨‍💻 All of my projects are available at [https://github.com/harun181](https://github.com/shofiul-bari)
+- 👨‍💻 All of my projects are available at [https://github.com/shofiul-bari](https://github.com/shofiul-bari)
 
 - 📝 I regularly write articles on [https://www.learnwithtutul.xyz/](https://www.learnwithtutul.xyz/)
 
