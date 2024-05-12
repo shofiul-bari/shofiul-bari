@@ -2,11 +2,11 @@
 
 <h1 align="center">Hi 👋, I'AM FAHIM PATWARY </h1>
 <h3 align="center">Programmer | Web Designer | Speed Learner</h3>
-<h4 align="center">Co-founder & Chief Operating Officer at Hablu Programmer</h4>
+
 
 <div align="center">
 
-![Profile views](https://komarev.com/ghpvc/?username=harun181&color=red)
+![Profile views](https://komarev.com/ghpvc/?username=SHOFIUL-BARI&color=red)
 
 Skills: HTML / CSS
 
