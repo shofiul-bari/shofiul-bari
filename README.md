@@ -32,8 +32,7 @@ Skills: HTML / CSS / js
 
 
 
-
-<a href="https://www.facebook.com/profile.php?id=100078056291957&mibextid=ZbWKwL" alt="tutul181" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100078056291957&mibextid=ZbWKwL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tutul181" height="30" width="40" /></a>
 <a href="https://x.com/bari_shofiul?t=mXTutWCZqB_KeWH_3PxQRw&s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tutul181" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/shofiul-bari-1234aa290?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app " target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harun181" height="30" width="40" /></a>
 <a href="https://www.instagram.com/bs_fahim_patwary?igsh=MWJjMGg2anN0cWJ0bQ==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tutul_181" height="30" width="40" /></a>
