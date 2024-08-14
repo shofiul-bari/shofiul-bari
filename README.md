@@ -8,7 +8,7 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=SHOFIUL-BARI&color=red)
 
-Skills: HTML / CSS / js 
+Skills: HTML / CSS / javascript /bootstrap / tailwind css /
 
 </div>
 
