@@ -22,7 +22,7 @@ Skills: HTML / CSS / javascript /bootstrap / tailwind css /
 
 - 📫 How to reach me **shofiulbari11@gmail.com**
 
-- 📄 All About Me:[https://lnk.bio/tutul181](https://lnk.bio/tutul181)
+- 📄 All About Me:
 
 <h3 align="left">Connect with me:</h3>
 
