@@ -14,7 +14,7 @@ Skills: HTML / CSS / javascript /bootstrap / tailwind css /
 
 
 
-- 🌱 I’m currently learning HTML,CSS,JS,
+- 🌱 I’m currently learning /javascript/
 
 - 👨‍💻 All of my projects are available at [https://github.com/shofiul-bari](https://github.com/shofiul-bari)
 
