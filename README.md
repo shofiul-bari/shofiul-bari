@@ -34,7 +34,7 @@ Skills: HTML / CSS / javascript /bootstrap / tailwind css /
 <a href="https://x.com/bari_shofiul?t=mXTutWCZqB_KeWH_3PxQRw&s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fahim patwary" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/shofiul-bari-1234aa290?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app " target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fahim patwary" height="30" width="40" /></a>
 <a href="https://www.instagram.com/bs_fahim_patwary?igsh=MWJjMGg2anN0cWJ0bQ==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fahim patwary" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@shofiulbari5993" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="fahim patwary" height="30" width="40" /></a>
+<a href="https://youtube.com/@proprogrammer24?si=eWKObOG6_6pfEpEv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="fahim patwary" height="30" width="40" /></a>
 
 </p>
 
